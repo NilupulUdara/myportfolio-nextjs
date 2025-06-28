@@ -22,7 +22,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
         </div>
       )}
       <h3 className="text-2xl font-semibold mb-2 line-clamp-2">{project.title}</h3>
-      <p className="text-gray-600 mb-4 line-clamp-3">{project.description}</p>
+      <p className="text-gray-600 mb-4 line-clamp-3 text-white">{project.description}</p>
       <a
         href={project.link}
         target="_blank"
