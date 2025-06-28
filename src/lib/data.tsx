@@ -10,8 +10,8 @@ export const projects: Project[] = [
   },
   {
     id: '2',
-    title: 'Class Fee Management System - MEAN Stack',
-    description: 'A comprehensive class fee management system built using the MEAN stack (MongoDB, Express.js, Angular, Node.js).',
+    title: 'Class Fee Management System',
+    description: 'A comprehensive class fee management system built using MySql, Express.js, Angular, Node.js.',
     link: 'https://github.com/NilupulUdara/Class-Fee-Management-System-MEAN',
     image: '/images/fee-management.jpg',
   },

@@ -31,7 +31,7 @@ export default function Home() {
             />
             <h1 className="text-5xl font-bold mb-4 text-white">Welcome to My Portfolio</h1>
             <p className="text-xl mb-6 max-w-2xl mx-auto text-white">
-              Hi, I'm Nilupu Udara, a passionate developer creating awesome web experiences.
+              Hi, I&apos;m Nilupu Udara, a passionate developer creating awesome web experiences.
             </p>
             <a
               href="#contact"
